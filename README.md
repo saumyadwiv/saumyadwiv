@@ -1,4 +1,4 @@
-![Hi I'm Saumya](./wave.svg)
+![header](https://capsule-render.vercel.app/api?type=waving&color=7490ac&height=200&section=header&text=Hi!%20I'm%20Saumya&fontSize=50&fontAlign=80&animation=fadeIn)
 
 <p align="left">I’m a passionate developer focused on problem solving and building impactful tech solutions. I have a strong interest in AI/ML, computer vision, and software development, and I actively practice data structures and algorithms to sharpen my skills. I enjoy working with Python and C++, and I’m continuously learning and improving through real-world projects and challenges.<br><br>Let's collaborate and build something amazing together!</p>
 
