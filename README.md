@@ -3,7 +3,9 @@
 <p align="left">I’m a passionate developer focused on problem solving and building impactful tech solutions. I have a strong interest in AI/ML, computer vision, and software development, and I actively practice data structures and algorithms to sharpen my skills. I enjoy working with Python and C++, and I’m continuously learning and improving through real-world projects and challenges.<br><br>Let's collaborate and build something amazing together!</p>
 
 ###
+
 <br>
+
 ###
 
 <h3 align="left">Language and tools :</h3>
