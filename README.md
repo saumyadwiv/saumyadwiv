@@ -11,6 +11,7 @@ I’m a passionate developer focused on problem solving and building impactful t
 ![](https://github-readme-stats.vercel.app/api?username=saumyadwiv&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=saumyadwiv&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saumyadwiv&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://leetcard.jacoblin.cool/saumya_dwiv?theme=nord&border=0&radius=5" height="160" alt="leetcode stats">
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=saumyadwiv&limit=5&theme=dark&combine_all_yearly_contributions=true)
