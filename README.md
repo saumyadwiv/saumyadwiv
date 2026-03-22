@@ -59,7 +59,7 @@
 
 <br>
 
-<h3 align="left">Holopin :</h3>
+<!-- <h3 align="left">Holopin :</h3>
 
 <div align="center">
   <a href="https://holopin.io/@saumyadwiv">
@@ -81,4 +81,4 @@
 
 <div align="center">
   <img src="./github-metrics.svg" alt="Metrics data" width="60%" height="100%">
-</div>
+</div> -->
