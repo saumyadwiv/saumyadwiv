@@ -1,0 +1,32 @@
+<svg viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="180" fill="#3d5068" rx="12"/>
+
+  <text x="860" y="130" font-size="28" font-weight="700"
+    fill="#0d1117" text-anchor="end" font-family="sans-serif">Hi! I'm Saumya</text>
+
+  <g>
+    <path d="M0,100 C180,70 360,130 540,100 C720,70 900,130 1080,100
+             C1260,70 1440,130 1440,100 L1440,180 L0,180 Z" fill="#2c3e50" opacity="0.9">
+      <animateTransform attributeName="transform" type="translate"
+        from="0,0" to="-540,0" dur="6s" repeatCount="indefinite"/>
+    </path>
+    <path d="M540,100 C720,70 900,130 1080,100 C1260,70 1440,130 1620,100
+             C1800,70 1980,130 1980,100 L1980,180 L540,180 Z" fill="#2c3e50" opacity="0.9">
+      <animateTransform attributeName="transform" type="translate"
+        from="0,0" to="-540,0" dur="6s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <g>
+    <path d="M0,110 C200,140 400,80 600,110 C800,140 1000,80 1200,110
+             C1300,125 1380,105 1440,110 L1440,180 L0,180 Z" fill="#1e2d3d" opacity="0.7">
+      <animateTransform attributeName="transform" type="translate"
+        from="-540,0" to="0,0" dur="9s" repeatCount="indefinite"/>
+    </path>
+    <path d="M-540,110 C-340,140 -140,80 60,110 C260,140 460,80 660,110
+             C760,125 840,105 900,110 L900,180 L-540,180 Z" fill="##00008B" opacity="0.7">
+      <animateTransform attributeName="transform" type="translate"
+        from="-540,0" to="0,0" dur="9s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>
