@@ -24,7 +24,7 @@
         from="-540,0" to="0,0" dur="9s" repeatCount="indefinite"/>
     </path>
     <path d="M-540,110 C-340,140 -140,80 60,110 C260,140 460,80 660,110
-             C760,125 840,105 900,110 L900,180 L-540,180 Z" fill="##00008B" opacity="0.7">
+             C760,125 840,105 900,110 L900,180 L-540,180 Z" fill="#1e2d3d" opacity="0.7">
       <animateTransform attributeName="transform" type="translate"
         from="-540,0" to="0,0" dur="9s" repeatCount="indefinite"/>
     </path>
