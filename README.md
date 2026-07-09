@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:1a2634,100:3a5068&height=180&section=header&text=Saumya%20Dwivedi&fontSize=48&fontColor=ffffff&fontAlign=50&fontAlignY=45&desc=Software%20Development%20Engineer%20|%20Full%20Stack%20Developer&descAlign=50&descAlignY=65&descColor=cbd5e1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2634,100:3a5068&height=200&section=header&text=Saumya%20Dwivedi&fontSize=48&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Full-Stack%20Engineer%20|%20Node.js%20%C2%B7%20Next.js%20%C2%B7%20Python%20%C2%B7%20React&descAlign=50&descAlignY=55&descColor=cbd5e1&animation=fadeIn" width="100%"/>
 
 <a href="https://www.linkedin.com/in/saumya-dwivedi-73114127b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:saumyadwivedi1904@gmail.com"><img src="https://img.shields.io/badge/Email-1a2634?style=flat-square&logo=gmail&logoColor=white"/></a>
@@ -18,6 +18,19 @@ Software developer focused on building reliable, well-architected systems end to
 - 🧠 Regularly solving DSA problems to stay sharp on fundamentals
 - 🌱 Exploring AI/ML and Computer Vision alongside core software engineering
 - 🤝 Open to collaborating on well-scoped open-source or side projects
+
+<br>
+
+## Experience
+
+**FOSSEE Summer Fellow** · IIT Bombay
+<br>
+<sub>May 2026 – Present</sub>
+
+- Selected through a competitive national-level screening process from across India
+- Architected Kubernetes deployment infrastructure enabling a Django, Celery, PostgreSQL, and Redis services platform to scale simulation workloads reliably across multiple tenants, delivered through Agile sprints
+- Building a dynamic pod orchestration system with a custom pod manager to provision ephemeral simulation pods from templated specs, reducing manual setup overhead for new simulation workloads
+- Implementing CPU/memory resource limits across pods to ensure workload isolation in a multi-tenant environment, preventing any single simulation job from degrading platform-wide performance
 
 <br>
 
@@ -81,13 +94,7 @@ Software developer focused on building reliable, well-architected systems end to
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=saumyadwiv&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=0d1117" height="165" alt="GitHub stats"/>
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=saumyadwiv&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=8" height="165" alt="Top languages"/>
-
-</div>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=saumyadwiv&theme=dark&hide_border=true&background=0D1117" height="165" alt="Streak stats"/>
 
 </div>
@@ -130,13 +137,46 @@ Software developer focused on building reliable, well-architected systems end to
 
 </div>
 
+## Certifications
+
+- ServiceNow Virtual Internship Program — ServiceNow University
+- Computer Networking: The Bits and Bytes of Computer Networking — Google
+- DP-900: Microsoft Azure Data Fundamentals — Microsoft
+- NPTEL: Introduction to Machine Learning
+
+<!-- 💡 Add the certificate link to each line above once you have the URLs, e.g.: [ServiceNow Virtual Internship Program](your-link-here) -->
+
+<br>
+
+## Let's Connect
+
+<div align="center">
+
+I'm always open to conversations about full-stack engineering, distributed systems, or AI-integrated products.
+Feel free to reach out — happy to collaborate, exchange ideas, or just talk tech.
+
+<a href="https://www.linkedin.com/in/saumya-dwivedi-73114127b/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:saumyadwivedi1904@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-1a2634?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+</div>
+
+<br>
+
 ## Contributions
 
 <div align="center">
 
-[![Saumya's contribution graph](https://ghchart.rshah.org/58a6ff/saumyadwiv)](https://github.com/saumyadwiv)
+<img src="https://github-stats-extended.vercel.app/api?username=saumyadwiv&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=0d1117" height="165" alt="Commits, PRs, issues and stars breakdown"/>
 
 </div>
+
+<div align="center">
+
+[![Saumya's contribution calendar](https://ghchart.rshah.org/58a6ff/saumyadwiv)](https://github.com/saumyadwiv)
+
+</div>
+
+<sub>💡 The card above shows the actual numbers — total commits, PRs opened, issues opened, and repos contributed to. The calendar below shows when those contributions happened. Both update automatically as you push more code.</sub>
 
 <br>
 
