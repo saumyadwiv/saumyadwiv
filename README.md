@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2634,100:3a5068&height=200&section=header&text=Saumya%20Dwivedi&fontSize=48&fontColor=ffffff&fontAlign=50&fontAlignY=35&animation=fadeIn" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=CBD5E1&center=true&vCenter=true&width=600&height=40&lines=Software+Development+Engineer;Full-Stack+Engineer;Exploring+AI%2FML+%26+Computer+Vision" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d2b4f,100:b490c9&height=200&section=header&text=Saumya%20Dwivedi&fontSize=48&fontColor=ffffff&fontAlign=50&fontAlignY=35&animation=fadeIn" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=40&lines=Software+Development+Engineer;Full-Stack+Engineer;Exploring+AI%2FML+%26+Computer+Vision" alt="Typing SVG" />
 
 <a href="https://www.linkedin.com/in/saumya-dwivedi-73114127b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:saumyadwivedi1904@gmail.com"><img src="https://img.shields.io/badge/Email-1a2634?style=for-the-badge&logo=gmail&logoColor=white"/></a>
