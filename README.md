@@ -125,7 +125,7 @@ Customer churn intelligence platform: single/batch churn scoring, an interactive
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=saumyadwiv&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=0d1117" height="165" alt="Commits, PRs, issues and stars breakdown"/>
+<img src="https://github-stats-extended.vercel.app/api?username=saumyadwiv&show_icons=true&include_all_commits=true&hide_rank=true&theme=dark&hide_border=true&bg_color=0d1117" height="165" alt="Commits, PRs, issues and stars breakdown"/>
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=saumyadwiv&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=8" height="165" alt="Top languages"/>
 
 </div>
