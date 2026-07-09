@@ -1,11 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2634,100:3a5068&height=200&section=header&text=Saumya%20Dwivedi&fontSize=48&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Software%20Development%20Engineer%20%7C%20Full-Stack%20Engineer&descAlign=50&descAlignY=55&descColor=cbd5e1&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2634,100:3a5068&height=200&section=header&text=Saumya%20Dwivedi&fontSize=48&fontColor=ffffff&fontAlign=50&fontAlignY=35&animation=fadeIn" width="100%"/>
 
-<a href="https://www.linkedin.com/in/saumya-dwivedi-73114127b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:saumyadwivedi1904@gmail.com"><img src="https://img.shields.io/badge/Email-1a2634?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/saumya_dwiv"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
-<a href="https://github.com/saumyadwiv"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=CBD5E1&center=true&vCenter=true&width=600&lines=Software+Development+Engineer;Full-Stack+Engineer;Exploring+AI%2FML+%26+Computer+Vision" alt="Typing SVG" />
+
+<br>
+
+<a href="https://www.linkedin.com/in/saumya-dwivedi-73114127b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:saumyadwivedi1904@gmail.com"><img src="https://img.shields.io/badge/Email-1a2634?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/saumya_dwiv"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://github.com/saumyadwiv"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<!-- 💡 Optional: add a resume badge once you have a hosted link, e.g.:
+<a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-3a5068?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
+-->
 
 </div>
 
