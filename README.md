@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2634,100:3a5068&height=200&section=header&text=Saumya%20Dwivedi&fontSize=48&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Full-Stack%20Engineer%20|%20Node.js%20%C2%B7%20Next.js%20%C2%B7%20Python%20%C2%B7%20React&descAlign=50&descAlignY=55&descColor=cbd5e1&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2634,100:3a5068&height=200&section=header&text=Saumya%20Dwivedi&fontSize=48&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Software%20Development%20Engineer%20%7C%20Full-Stack%20Engineer&descAlign=50&descAlignY=55&descColor=cbd5e1&animation=fadeIn" width="100%"/>
 
 <a href="https://www.linkedin.com/in/saumya-dwivedi-73114127b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:saumyadwivedi1904@gmail.com"><img src="https://img.shields.io/badge/Email-1a2634?style=flat-square&logo=gmail&logoColor=white"/></a>
@@ -13,7 +13,7 @@
 
 ## About
 
-Software developer focused on building reliable, well-architected systems end to end. Comfortable across the stack — from designing APIs and data models on the backend to shipping clean, usable interfaces on the frontend. Strong foundation in **Data Structures & Algorithms**, with a growing focus on **AI/ML and Computer Vision** applications.
+Software engineer focused on building reliable, well-architected systems end to end — from designing APIs and data models on the backend to shipping clean, usable interfaces on the frontend. Strong foundation in **Data Structures & Algorithms**, with a growing focus on **AI/ML and Computer Vision**.
 
 - 🧠 Regularly solving DSA problems to stay sharp on fundamentals
 - 🌱 Exploring AI/ML and Computer Vision alongside core software engineering
@@ -44,8 +44,6 @@ Software developer focused on building reliable, well-architected systems end to
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 
 **Frontend**
 <br>
@@ -58,7 +56,6 @@ Software developer focused on building reliable, well-architected systems end to
 **Backend**
 <br>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
@@ -75,7 +72,6 @@ Software developer focused on building reliable, well-architected systems end to
 <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/CI%2FCD-000000?style=flat-square&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
 
@@ -86,7 +82,16 @@ Software developer focused on building reliable, well-architected systems end to
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/SHAP-3B4CC0?style=flat-square&logo=python&logoColor=white"/>
+
+<br>
+
+## Pinned Projects
+
+<sub>💡 Add your 3–5 strongest repos here — this is the section recruiters actually scan. Link name, one-line description, and stack.</sub>
+
+- **[Project Name](https://github.com/saumyadwiv/repo)** — One sentence on what it does and why it's interesting. `Python` `FastAPI` `PostgreSQL`
+- **[Project Name](https://github.com/saumyadwiv/repo)** — One sentence on what it does and why it's interesting. `React` `Next.js`
+- **[Project Name](https://github.com/saumyadwiv/repo)** — One sentence on what it does and why it's interesting. `Kubernetes` `Docker`
 
 <br>
 
@@ -94,8 +99,8 @@ Software developer focused on building reliable, well-architected systems end to
 
 <div align="center">
 
+<img src="https://github-stats-extended.vercel.app/api?username=saumyadwiv&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=0d1117" height="165" alt="Commits, PRs, issues and stars breakdown"/>
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=saumyadwiv&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=8" height="165" alt="Top languages"/>
-<img src="https://streak-stats.demolab.com?user=saumyadwiv&theme=dark&hide_border=true&background=0D1117" height="165" alt="Streak stats"/>
 
 </div>
 
@@ -104,18 +109,6 @@ Software developer focused on building reliable, well-architected systems end to
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=saumyadwiv&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=e8a33d" width="90%" alt="Contribution activity graph"/>
 
 </div>
-
-<br>
-
-
-
-<!--
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/saumyadwiv/saumyadwiv/output/github-contribution-grid-snake.svg" width="100%" alt="contribution snake animation"/>
-
-</div>
--->
 
 <br>
 
@@ -128,12 +121,6 @@ Software developer focused on building reliable, well-architected systems end to
 </div>
 
 <br>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=saumyadwiv&color=1a2634&style=flat-square&label=Profile+Views)
-
-</div>
 
 ## Certifications
 
@@ -160,30 +147,14 @@ Feel free to reach out — happy to collaborate, exchange ideas, or just talk te
 
 <br>
 
-## Contributions
-
-<div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=saumyadwiv&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=0d1117" height="165" alt="Commits, PRs, issues and stars breakdown"/>
-
-</div>
-
-<div align="center">
-
-[![Saumya's contribution calendar](https://ghchart.rshah.org/58a6ff/saumyadwiv)](https://github.com/saumyadwiv)
-
-</div>
-
-<sub>💡 The card above shows the actual numbers — total commits, PRs opened, issues opened, and repos contributed to. The calendar below shows when those contributions happened. Both update automatically as you push more code.</sub>
-
-<br>
-
-
-
 <!--
-SETUP NOTES (delete this comment block once done):
+SETUP / EDIT NOTES (delete this comment block once done):
 
-1. Contribution Snake animation:
+1. Pinned Projects section: replace the three placeholder lines with your actual best
+   repos. This is the highest-signal section on the whole profile — recruiters scan it
+   before anything else, so don't skip filling it in.
+
+2. Contribution snake animation (optional, currently removed — see reasoning below):
    - Go to your saumyadwiv/saumyadwiv repo -> Actions -> New workflow
    - Add this as .github/workflows/snake.yml:
 
@@ -211,8 +182,8 @@ SETUP NOTES (delete this comment block once done):
              env:
                GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-   - Commit it, run the workflow once manually (Actions tab -> Run workflow), and the
-     image link above will start working automatically after that.
+   - Commit it, run the workflow once manually (Actions tab -> Run workflow), and add
+     the resulting image back into the README if you want it.
 
-2. Streak stats sometimes rate-limit on first load - refresh the page if it's blank.
+3. Streak stats / stats-extended sometimes rate-limit on first load - refresh if blank.
 -->
