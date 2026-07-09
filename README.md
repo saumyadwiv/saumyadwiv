@@ -15,9 +15,6 @@
 
 Software developer focused on building reliable, well-architected systems end to end. Comfortable across the stack — from designing APIs and data models on the backend to shipping clean, usable interfaces on the frontend. Strong foundation in **Data Structures & Algorithms**, with a growing focus on **AI/ML and Computer Vision** applications.
 
-Currently looking for **SDE / Full-Stack Engineer** roles where I can contribute to production systems and keep leveling up.
-
-- 💼 Open to **SDE** and **Full-Stack Development** opportunities
 - 🧠 Regularly solving DSA problems to stay sharp on fundamentals
 - 🌱 Exploring AI/ML and Computer Vision alongside core software engineering
 - 🤝 Open to collaborating on well-scoped open-source or side projects
@@ -28,22 +25,55 @@ Currently looking for **SDE / Full-Stack Engineer** roles where I can contribute
 
 **Languages**
 <br>
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 
-**Frameworks & Libraries**
+**Frontend**
 <br>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Flow-FF0072?style=flat-square&logo=react&logoColor=white"/>
+
+**Backend**
+<br>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
 
-**Databases & Tools**
+**Databases**
 <br>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+
+**DevOps & Tools**
+<br>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI%2FCD-000000?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+
+**AI & ML**
+<br>
+<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLM_Integration-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/SHAP-3B4CC0?style=flat-square&logo=python&logoColor=white"/>
 
 <br>
 
@@ -100,20 +130,20 @@ Short description goes here.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=saumyadwiv&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=true&bg_color=ffffff&title_color=1a2634&text_color=333333&icon_color=3a5068" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumyadwiv&layout=compact&hide_border=true&bg_color=ffffff&title_color=1a2634&text_color=333333&langs_count=8" height="165" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=saumyadwiv&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=e8a33d" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumyadwiv&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="165" alt="Top languages"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saumyadwiv&hide_border=true&background=FFFFFF&stroke=1a2634&ring=3a5068&fire=e8a33d&currStreakLabel=1a2634&sideLabels=333333&dates=666666" height="165" alt="Streak stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saumyadwiv&hide_border=true&background=0D1117&stroke=58a6ff&ring=e8a33d&fire=e8a33d&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" height="165" alt="Streak stats"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saumyadwiv&theme=minimal&hide_border=true&area=true&color=1a2634&line=3a5068&point=e8a33d" width="90%" alt="Contribution activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saumyadwiv&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=e8a33d" width="90%" alt="Contribution activity graph"/>
 
 </div>
 
@@ -121,13 +151,15 @@ Short description goes here.
 
 ## Contribution Snake
 
+> ⚙️ **Setup required before this shows up** — it's currently broken because the workflow that generates it hasn't been run yet. Full copy-paste steps are in the comment block at the very bottom of this file. Once you've run the workflow once, uncomment the line below (remove `<!--` and `-->`) and it will render and auto-update daily.
+
+<!--
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/saumyadwiv/saumyadwiv/output/github-contribution-grid-snake.svg" width="100%" alt="contribution snake animation"/>
 
 </div>
-
-<sub>⚙️ This animated graph needs a one-time setup — see the note at the bottom of this file.</sub>
+-->
 
 <br>
 
@@ -135,11 +167,9 @@ Short description goes here.
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/saumya_dwiv?theme=light&border=1a2634&radius=6&font=Karla" height="160" alt="LeetCode stats">
+<img src="https://leetcard.jacoblin.cool/saumya_dwiv?theme=dark&border=58a6ff&radius=6&font=Karla" height="160" alt="LeetCode stats">
 
 </div>
-
-<br>
 
 <div align="center">
 
@@ -147,7 +177,7 @@ Short description goes here.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:1a2634,100:3a5068&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a2634,100:3a5068&height=60&section=footer" width="100%"/>
 
 <!--
 SETUP NOTES (delete this comment block once done):
