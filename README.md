@@ -178,7 +178,7 @@ Feel free to reach out — happy to collaborate, exchange ideas, or just talk te
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a2634,100:3a5068&height=60&section=footer" width="100%"/>
+
 
 <!--
 SETUP NOTES (delete this comment block once done):
