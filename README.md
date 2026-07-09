@@ -130,14 +130,14 @@ Short description goes here.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=saumyadwiv&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=e8a33d" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumyadwiv&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="165" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=saumyadwiv&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=0d1117" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumyadwiv&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=8" height="165" alt="Top languages"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saumyadwiv&hide_border=true&background=0D1117&stroke=58a6ff&ring=e8a33d&fire=e8a33d&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" height="165" alt="Streak stats"/>
+<img src="https://streak-stats.demolab.com?user=saumyadwiv&theme=dark&hide_border=true&background=0D1117" height="165" alt="Streak stats"/>
 
 </div>
 
