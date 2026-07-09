@@ -87,11 +87,11 @@ Software engineer focused on building reliable, well-architected systems end to 
 
 ## Pinned Projects
 
-<sub>💡 Add your 3–5 strongest repos here — this is the section recruiters actually scan. Link name, one-line description, and stack.</sub>
+- **[Archon — AI-Powered Codebase Intelligence Platform](https://github.com/saumyadwiv/Archon--Github-repo-analyzer)** — Paste a GitHub repo URL and get a real dependency graph (AST-parsed, not regex-guessed), a 0–100 health score, circular-dependency detection, and an AI chat grounded in the actual codebase. Async analysis via BullMQ with live Socket.IO progress. `Node.js` `Next.js` `MongoDB` `Redis` `Gemini API`
 
-- **[Project Name](https://github.com/saumyadwiv/repo)** — One sentence on what it does and why it's interesting. `Python` `FastAPI` `PostgreSQL`
-- **[Project Name](https://github.com/saumyadwiv/repo)** — One sentence on what it does and why it's interesting. `React` `Next.js`
-- **[Project Name](https://github.com/saumyadwiv/repo)** — One sentence on what it does and why it's interesting. `Kubernetes` `Docker`
+- **[ChurnGuard Pro — Customer Churn Intelligence Platform](https://github.com/saumyadwiv/churnguard)** — Score a single customer or a full CSV of thousands for churn risk, see an interactive 3D risk map, get plain-English explanations for each prediction, and turn a batch of flagged customers into a dollar ROI figure. Tuned Random Forest (0.835 AUC-ROC) with SMOTE class balancing. `Python` `Streamlit` `scikit-learn` `MongoDB`
+
+
 
 <br>
 
