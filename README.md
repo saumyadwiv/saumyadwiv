@@ -130,8 +130,8 @@ Short description goes here.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=saumyadwiv&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=0d1117" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumyadwiv&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=8" height="165" alt="Top languages"/>
+<img src="https://github-stats-extended.vercel.app/api?username=saumyadwiv&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=0d1117" height="165" alt="GitHub stats"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=saumyadwiv&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=8" height="165" alt="Top languages"/>
 
 </div>
 
@@ -167,7 +167,7 @@ Short description goes here.
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/saumya_dwiv?theme=dark&border=58a6ff&radius=6&font=Karla" height="160" alt="LeetCode stats">
+<img src="https://leetcard.jacoblin.cool/saumya_dwiv?theme=nord&border=0&radius=8&font=Karla" height="160" alt="LeetCode stats">
 
 </div>
 
