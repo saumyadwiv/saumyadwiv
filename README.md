@@ -107,9 +107,7 @@ Software developer focused on building reliable, well-architected systems end to
 
 <br>
 
-## Contribution Snake
 
-> ⚙️ **Setup required before this shows up** — it's currently broken because the workflow that generates it hasn't been run yet. Full copy-paste steps are in the comment block at the very bottom of this file. Once you've run the workflow once, uncomment the line below (remove `<!--` and `-->`) and it will render and auto-update daily.
 
 <!--
 <div align="center">
