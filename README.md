@@ -87,9 +87,15 @@ Software engineer focused on building reliable, well-architected systems end to 
 
 ## Pinned Projects
 
-- **[Archon — AI-Powered Codebase Intelligence Platform](https://github.com/saumyadwiv/Archon--Github-repo-analyzer)** — Paste a GitHub repo URL and get a real dependency graph (AST-parsed, not regex-guessed), a 0–100 health score, circular-dependency detection, and an AI chat grounded in the actual codebase. Async analysis via BullMQ with live Socket.IO progress. `Node.js` `Next.js` `MongoDB` `Redis` `Gemini API`
+<div align="center">
 
-- **[ChurnGuard Pro — Customer Churn Intelligence Platform](https://github.com/saumyadwiv/churnguard)** — Score a single customer or a full CSV of thousands for churn risk, see an interactive 3D risk map, get plain-English explanations for each prediction, and turn a batch of flagged customers into a dollar ROI figure. Tuned Random Forest (0.835 AUC-ROC) with SMOTE class balancing. `Python` `Streamlit` `scikit-learn` `MongoDB`
+<a href="https://github.com/saumyadwiv/Archon--Github-repo-analyzer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=saumyadwiv&repo=Archon--Github-repo-analyzer&theme=dark&hide_border=true&bg_color=0d1117" height="165" alt="Archon repo card"/></a>
+<a href="https://github.com/saumyadwiv/churnguard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=saumyadwiv&repo=churnguard&theme=dark&hide_border=true&bg_color=0d1117" height="165" alt="ChurnGuard repo card"/></a>
+
+</div>
+
+- **Archon** — AI-powered GitHub repo analyzer: real AST-parsed dependency graphs, a 0–100 health score, circular-dependency detection, and an AI chat grounded in the codebase. `Node.js` `Next.js` `MongoDB` `Redis` `Gemini API`
+- **ChurnGuard Pro** — Customer churn intelligence platform: single/batch churn scoring, an interactive 3D risk map, plain-English prediction explanations, and dollar ROI on retention. `Python` `Streamlit` `scikit-learn` `MongoDB`
 
 
 
