@@ -77,55 +77,6 @@ Software developer focused on building reliable, well-architected systems end to
 
 <br>
 
-## Pinned Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🔹 [Archon](https://github.com/saumyadwiv/archon)
-<!-- One-line description of what Archon does -->
-Short description goes here.
-
-`Tech` `Stack` `Here`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔹 [ChurGuard](https://github.com/saumyadwiv/churguard)
-<!-- One-line description of what ChurGuard does -->
-Short description goes here.
-
-`Tech` `Stack` `Here`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔹 [LayoutSense](https://github.com/saumyadwiv/layoutsense)
-<!-- One-line description of what LayoutSense does -->
-Short description goes here.
-
-`Tech` `Stack` `Here`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔹 [eSIM Cloud](https://github.com/saumyadwiv/esim-cloud)
-<!-- One-line description of what eSIM Cloud does -->
-Short description goes here.
-
-`Tech` `Stack` `Here`
-
-</td>
-</tr>
-</table>
-
-> 💡 Replace each description and tech-stack line above, and double-check the repo links point to the right place.
-
-<br>
-
 ## GitHub Analytics
 
 <div align="center">
@@ -171,11 +122,23 @@ Short description goes here.
 
 </div>
 
+<br>
+
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=saumyadwiv&color=1a2634&style=flat-square&label=Profile+Views)
 
 </div>
+
+## Contributions
+
+<div align="center">
+
+[![Saumya's contribution graph](https://ghchart.rshah.org/58a6ff/saumyadwiv)](https://github.com/saumyadwiv)
+
+</div>
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a2634,100:3a5068&height=60&section=footer" width="100%"/>
 
@@ -214,6 +177,4 @@ SETUP NOTES (delete this comment block once done):
      image link above will start working automatically after that.
 
 2. Streak stats sometimes rate-limit on first load - refresh the page if it's blank.
-
-3. If any repo link in "Pinned Projects" 404s, fix the URL to match the exact repo slug.
 -->
