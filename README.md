@@ -87,15 +87,35 @@ Software engineer focused on building reliable, well-architected systems end to 
 
 ## Pinned Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/saumyadwiv/Archon--Github-repo-analyzer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=saumyadwiv&repo=Archon--Github-repo-analyzer&theme=dark&hide_border=true&bg_color=0d1117" height="165" alt="Archon repo card"/></a>
-<a href="https://github.com/saumyadwiv/churnguard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=saumyadwiv&repo=churnguard&theme=dark&hide_border=true&bg_color=0d1117" height="165" alt="ChurnGuard repo card"/></a>
+**[Archon — AI-Powered Codebase Intelligence Platform](https://github.com/saumyadwiv/Archon--Github-repo-analyzer)**
+<br>
+AI-powered GitHub repo analyzer: real AST-parsed dependency graphs, a 0–100 health score, circular-dependency detection, and an AI chat grounded in the codebase.
+<br><br>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
 
-</div>
+</td>
+<td width="50%" valign="top">
 
-- **Archon** — AI-powered GitHub repo analyzer: real AST-parsed dependency graphs, a 0–100 health score, circular-dependency detection, and an AI chat grounded in the codebase. `Node.js` `Next.js` `MongoDB` `Redis` `Gemini API`
-- **ChurnGuard Pro** — Customer churn intelligence platform: single/batch churn scoring, an interactive 3D risk map, plain-English prediction explanations, and dollar ROI on retention. `Python` `Streamlit` `scikit-learn` `MongoDB`
+**[ChurnGuard Pro — Customer Churn Intelligence Platform](https://github.com/saumyadwiv/churnguard)**
+<br>
+Customer churn intelligence platform: single/batch churn scoring, an interactive 3D risk map, plain-English prediction explanations, and dollar ROI on retention.
+<br><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+
+</td>
+</tr>
+</table>
 
 
 
