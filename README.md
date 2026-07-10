@@ -3,14 +3,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d2b4f,100:b490c9&height=200&section=header&text=Saumya%20Dwivedi&fontSize=48&fontColor=ffffff&fontAlign=50&fontAlignY=35&animation=fadeIn" width="100%"/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=40&lines=Software+Development+Engineer;Full-Stack+Engineer;Exploring+AI%2FML+%26+Computer+Vision" alt="Typing SVG" />
 
+<a href="https://portfolio-bay-nine-72.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/saumya-dwivedi-73114127b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:saumyadwivedi1904@gmail.com"><img src="https://img.shields.io/badge/Email-1a2634?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://leetcode.com/saumya_dwiv"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <a href="https://github.com/saumyadwiv"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<!-- 💡 Optional: add a resume badge once you have a hosted link, e.g.:
-<a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-3a5068?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
--->
 
 </div>
 
@@ -120,6 +117,19 @@ Customer churn intelligence platform: single/batch churn scoring, an interactive
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+**[Portfolio — Personal Website](https://portfolio-bay-nine-72.vercel.app/)**
+<br>
+Personal portfolio site with a fully custom-built UI — subtle animated 3D visuals, an ambient particle background, and an interactive skills showcase.
+<br><br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+</td>
+</tr>
 </table>
 
 
@@ -171,6 +181,7 @@ Customer churn intelligence platform: single/batch churn scoring, an interactive
 I'm always open to conversations about full-stack engineering, distributed systems, or AI-integrated products.
 Feel free to reach out — happy to collaborate, exchange ideas, or just talk tech.
 
+<a href="https://portfolio-bay-nine-72.vercel.app/"><img src="https://img.shields.io/badge/View_Portfolio-3a5068?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/saumya-dwivedi-73114127b/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:saumyadwivedi1904@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-1a2634?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
@@ -181,11 +192,7 @@ Feel free to reach out — happy to collaborate, exchange ideas, or just talk te
 <!--
 SETUP / EDIT NOTES (delete this comment block once done):
 
-1. Pinned Projects section: replace the three placeholder lines with your actual best
-   repos. This is the highest-signal section on the whole profile — recruiters scan it
-   before anything else, so don't skip filling it in.
-
-2. Contribution snake animation (optional, currently removed — see reasoning below):
+1. Contribution snake animation (optional, currently removed — see reasoning below):
    - Go to your saumyadwiv/saumyadwiv repo -> Actions -> New workflow
    - Add this as .github/workflows/snake.yml:
 
@@ -216,5 +223,5 @@ SETUP / EDIT NOTES (delete this comment block once done):
    - Commit it, run the workflow once manually (Actions tab -> Run workflow), and add
      the resulting image back into the README if you want it.
 
-3. Streak stats / stats-extended sometimes rate-limit on first load - refresh if blank.
+2. Streak stats / stats-extended sometimes rate-limit on first load - refresh if blank.
 -->
