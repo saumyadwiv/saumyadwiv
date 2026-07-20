@@ -15,7 +15,7 @@
 
 ## About
 
-Software engineer focused on building reliable, well-architected systems end to end — from designing APIs and data models on the backend to shipping clean, usable interfaces on the frontend. Strong foundation in **Data Structures & Algorithms**, with a growing focus on **AI/ML and Computer Vision**.
+Software Engineer focused on building reliable, well-architected systems end to end — from designing APIs and data models on the backend to shipping clean, usable interfaces on the frontend. Strong foundation in **Data Structures & Algorithms**, with a growing focus on **AI/ML and Computer Vision**.
 
 - 🧠 Regularly solving DSA problems to stay sharp on fundamentals
 - 🌱 Exploring AI/ML and Computer Vision alongside core software engineering
