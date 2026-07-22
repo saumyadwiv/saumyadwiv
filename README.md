@@ -11,7 +11,6 @@
 
 </div>
 <br>
-
 ## About
 
 Software Engineer focused on building reliable, well-architected systems end to end — from designing APIs and data models on the backend to shipping clean, usable interfaces on the frontend. Strong foundation in **Data Structures & Algorithms**, with a growing focus on **AI/ML and Computer Vision**.
