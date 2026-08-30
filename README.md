@@ -85,7 +85,21 @@ Software Engineer focused on building reliable, well-architected systems end to 
 
 <br>
 
+
+
+## GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=saumyadwiv&show_icons=true&include_all_commits=true&hide_rank=true&theme=dark&hide_border=true&bg_color=0d1117" height="165" alt="Commits, PRs, issues and stars breakdown"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=saumyadwiv&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=8" height="165" alt="Top languages"/>
+
+</div>
 ## Pinned Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 **[Archon — AI-Powered Codebase Intelligence Platform](https://github.com/saumyadwiv/Archon--Github-repo-analyzer)**
 <br>
@@ -97,7 +111,8 @@ AI-powered GitHub repo analyzer: real AST-parsed dependency graphs, a 0–100 he
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
 
-<br>
+</td>
+<td width="50%" valign="top">
 
 **[ChurnGuard Pro — Customer Churn Intelligence Platform](https://github.com/saumyadwiv/churnguard)**
 <br>
@@ -108,7 +123,10 @@ Customer churn intelligence platform: single/batch churn scoring, an interactive
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 
-<br>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 **[ClaimPilot — AI-Powered Insurance Claims Pre-Adjudication](https://github.com/saumyadwiv/claimpilot)**
 <br>
@@ -120,7 +138,8 @@ Multi-tenant claims platform: a claimant uploads documents, a 4-agent Gemini pip
 <img src="https://img.shields.io/badge/PostgreSQL-Supabase-336791?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
 
-<br>
+</td>
+<td width="50%" valign="top">
 
 **[Healthcare Appointment & Follow-up Manager](https://github.com/saumyadwiv/healthcare-appt)**
 <br>
@@ -132,7 +151,10 @@ Full-stack clinic platform with Patient/Doctor/Admin portals: symptom-aware book
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
 
-<br>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 **[Portfolio — Personal Website](https://portfolio-bay-nine-72.vercel.app/)**
 <br>
@@ -142,17 +164,9 @@ Personal portfolio site with a fully custom-built UI — subtle animated 3D visu
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 
-<br>
-
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=saumyadwiv&show_icons=true&include_all_commits=true&hide_rank=true&theme=dark&hide_border=true&bg_color=0d1117" height="165" alt="Commits, PRs, issues and stars breakdown"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=saumyadwiv&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=8" height="165" alt="Top languages"/>
-
-</div>
-
+</td>
+</tr>
+</table>
 <br>
 
 ## LeetCode
