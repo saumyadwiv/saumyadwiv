@@ -116,6 +116,34 @@ Customer churn intelligence platform: single/batch churn scoring, an interactive
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+**[ClaimPilot — AI-Powered Insurance Claims Pre-Adjudication](https://github.com/saumyadwiv/claimpilot)**
+<br>
+Multi-tenant claims platform: a claimant uploads documents, a 4-agent Gemini pipeline extracts, policy-matches, recommends, and flags missing docs, then an examiner reviews the full AI trail and decides.
+<br><br>
+<img src="https://img.shields.io/badge/Rails-7.1-CC0000?style=flat-square&logo=rubyonrails&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-Express-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-Supabase-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+
+</td>
+<td width="50%" valign="top">
+
+**[Healthcare Appointment & Follow-up Manager](https://github.com/saumyadwiv/healthcare-appt)**
+<br>
+Full-stack clinic platform with Patient/Doctor/Admin portals: symptom-aware booking, AI pre-visit and post-visit summaries, race-safe slot holds (Redis + Postgres), doctor-leave conflict handling, and email + Google Calendar sync.
+<br><br>
+<img src="https://img.shields.io/badge/Next.js-14-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+
+</td>
+</tr>
+<tr>
 <td colspan="2" valign="top">
 
 **[Portfolio — Personal Website](https://portfolio-bay-nine-72.vercel.app/)**
@@ -129,7 +157,6 @@ Personal portfolio site with a fully custom-built UI — subtle animated 3D visu
 </td>
 </tr>
 </table>
-
 
 
 <br>
