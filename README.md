@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d2b4f,100:b490c9&height=200&section=header&text=Saumya%20Dwivedi&fontSize=48&fontColor=ffffff&fontAlign=50&fontAlignY=35&animation=fadeIn" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=40&lines=Software+Development+Engineer;Full-Stack+Engineer;Exploring+AI%2FML+%26+Computer+Vision" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=40&lines=Software+Development+Engineer;Full-Stack+Engineer" alt="Typing SVG" />
 
 <a href="https://portfolio-bay-nine-72.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/saumya-dwivedi-73114127b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -11,6 +11,7 @@
 
 </div>
 <br>
+
 ## About
 
 Software Engineer focused on building reliable, well-architected systems end to end — from designing APIs and data models on the backend to shipping clean, usable interfaces on the frontend. Strong foundation in **Data Structures & Algorithms**, with a growing focus on **AI/ML and Computer Vision**.
@@ -25,12 +26,11 @@ Software Engineer focused on building reliable, well-architected systems end to 
 
 **FOSSEE Summer Fellow** · IIT Bombay
 <br>
-<sub>May 2026 – Present</sub>
+<sub>May 2026 – July 2026</sub>
 
-- Selected through a competitive national-level screening process from across India
-- Architected Kubernetes deployment infrastructure enabling a Django, Celery, PostgreSQL, and Redis services platform to scale simulation workloads reliably across multiple tenants, delivered through Agile sprints
-- Building a dynamic pod orchestration system with a custom pod manager to provision ephemeral simulation pods from templated specs, reducing manual setup overhead for new simulation workloads
-- Implementing CPU/memory resource limits across pods to ensure workload isolation in a multi-tenant environment, preventing any single simulation job from degrading platform-wide performance
+- Architected a Kubernetes-based pod isolation system provisioning isolated per-user simulation environments from templated specs, cutting manual setup time by 30% and supporting 15+ concurrent jobs
+- Designed a FastAPI session manager exposing 8+ REST endpoints backed by Redis TTL, handling full pod lifecycle from creation to auto-cleanup with zero orphaned resource leaks
+- Built a real-time React monitoring dashboard with live pod status, session countdown timers, and toast notifications — added as net-new files with zero merge conflicts to the existing codebase
 
 <br>
 
@@ -87,10 +87,6 @@ Software Engineer focused on building reliable, well-architected systems end to 
 
 ## Pinned Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 **[Archon — AI-Powered Codebase Intelligence Platform](https://github.com/saumyadwiv/Archon--Github-repo-analyzer)**
 <br>
 AI-powered GitHub repo analyzer: real AST-parsed dependency graphs, a 0–100 health score, circular-dependency detection, and an AI chat grounded in the codebase.
@@ -101,8 +97,7 @@ AI-powered GitHub repo analyzer: real AST-parsed dependency graphs, a 0–100 he
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
 
-</td>
-<td width="50%" valign="top">
+<br>
 
 **[ChurnGuard Pro — Customer Churn Intelligence Platform](https://github.com/saumyadwiv/churnguard)**
 <br>
@@ -113,10 +108,7 @@ Customer churn intelligence platform: single/batch churn scoring, an interactive
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<br>
 
 **[ClaimPilot — AI-Powered Insurance Claims Pre-Adjudication](https://github.com/saumyadwiv/claimpilot)**
 <br>
@@ -128,8 +120,7 @@ Multi-tenant claims platform: a claimant uploads documents, a 4-agent Gemini pip
 <img src="https://img.shields.io/badge/PostgreSQL-Supabase-336791?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
 
-</td>
-<td width="50%" valign="top">
+<br>
 
 **[Healthcare Appointment & Follow-up Manager](https://github.com/saumyadwiv/healthcare-appt)**
 <br>
@@ -141,10 +132,7 @@ Full-stack clinic platform with Patient/Doctor/Admin portals: symptom-aware book
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
 
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+<br>
 
 **[Portfolio — Personal Website](https://portfolio-bay-nine-72.vercel.app/)**
 <br>
@@ -154,11 +142,6 @@ Personal portfolio site with a fully custom-built UI — subtle animated 3D visu
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 
-</td>
-</tr>
-</table>
-
-
 <br>
 
 ## GitHub Analytics
@@ -167,12 +150,6 @@ Personal portfolio site with a fully custom-built UI — subtle animated 3D visu
 
 <img src="https://github-stats-extended.vercel.app/api?username=saumyadwiv&show_icons=true&include_all_commits=true&hide_rank=true&theme=dark&hide_border=true&bg_color=0d1117" height="165" alt="Commits, PRs, issues and stars breakdown"/>
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=saumyadwiv&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=8" height="165" alt="Top languages"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saumyadwiv&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=e8a33d" width="90%" alt="Contribution activity graph"/>
 
 </div>
 
@@ -195,8 +172,6 @@ Personal portfolio site with a fully custom-built UI — subtle animated 3D visu
 - DP-900: Microsoft Azure Data Fundamentals — Microsoft
 - NPTEL: Introduction to Machine Learning
 
-<!-- 💡 Add the certificate link to each line above once you have the URLs, e.g.: [ServiceNow Virtual Internship Program](your-link-here) -->
-
 <br>
 
 ## Let's Connect
@@ -211,42 +186,3 @@ Feel free to reach out — happy to collaborate, exchange ideas, or just talk te
 <a href="mailto:saumyadwivedi1904@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-1a2634?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
-
-<br>
-
-<!--
-SETUP / EDIT NOTES (delete this comment block once done):
-
-1. Contribution snake animation (optional, currently removed — see reasoning below):
-   - Go to your saumyadwiv/saumyadwiv repo -> Actions -> New workflow
-   - Add this as .github/workflows/snake.yml:
-
-     name: generate contribution snake
-     on:
-       schedule:
-         - cron: "0 0 * * *"
-       workflow_dispatch: {}
-       push:
-         branches: [ main ]
-     permissions:
-       contents: write
-     jobs:
-       generate:
-         runs-on: ubuntu-latest
-         steps:
-           - uses: Platane/snk@v3
-             with:
-               github_user_name: saumyadwiv
-               outputs: dist/github-contribution-grid-snake.svg
-           - uses: crazy-max/ghaction-github-pages@v4
-             with:
-               target_branch: output
-               build_dir: dist
-             env:
-               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-   - Commit it, run the workflow once manually (Actions tab -> Run workflow), and add
-     the resulting image back into the README if you want it.
-
-2. Streak stats / stats-extended sometimes rate-limit on first load - refresh if blank.
--->
